@@ -1,2 +1,2 @@
-# data_analytica
-End-to-end analytics: from business question → dashboard → decisions
+# Data Analytics - Pandas
+## Data analytics problems categorized into simple, medium and hard categories
