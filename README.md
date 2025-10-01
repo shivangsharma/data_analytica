@@ -1,2 +1,2 @@
-# Data Analytics - Pandas
-## Data analytics problems categorized into simple, medium and hard categories
+# Leetcode Puzzles
+## Leetcode puzzles categorized in easy, medium and hard with solutions in Python
